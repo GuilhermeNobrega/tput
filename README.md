@@ -32,7 +32,6 @@ Para aprender mais sobre as capacidades do `tput` e como usá-lo efetivamente, c
 
 - [Manual do tput no Linux](https://man7.org/linux/man-pages/man1/tput.1.html)
 - [tput - Linux Command - Unix Command](https://www.tutorialspoint.com/unix_commands/tput.htm)
-- [Bash - tput](https://www.gnu.org/software/coreutils/manual/html_node/tput-invocation.html)
 - [Bash - tput](https://linuxcommand.org/lc3_adv_tput.php)
 
 Lembre-se de que a experiência pode variar entre diferentes sistemas operacionais e terminais. Consulte também a documentação específica do seu terminal.
